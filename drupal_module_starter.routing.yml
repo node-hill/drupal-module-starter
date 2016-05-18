@@ -1,0 +1,7 @@
+drupal_module_starter.example:
+  path: '/starter-example'
+  defaults:
+    _controller: '\Drupal\example_templates\Controller\DrupalStarterController::example'
+    _title: 'Starter example'
+  requirements:
+    _permission: 'access content'

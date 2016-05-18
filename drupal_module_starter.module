@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * This is the main module file.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function drupal_module_starter_theme() {
+  return [];
+}
