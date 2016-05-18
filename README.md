@@ -1,4 +1,6 @@
-# Drupal starter controller
+# Drupal starter module
+
+Use this repository as a starting point when you create modules. Follow th steps below to get started.
 
 ## Getting started
 
